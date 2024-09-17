@@ -4,7 +4,7 @@ public class Lab001_table {
     public static void main(String[] args)
     {
         int num=10;
-        System.out.printf("10th table =========\n");
+        //System.out.printf("10th table =========\n");
         System.out.printf("%d * %d = %d\n", num,1,(num*1));
         System.out.printf("%d * %d = %d\n", num,2,(num*2));
         System.out.printf("%d * %d = %d\n", num,3,(num*3));
@@ -15,6 +15,6 @@ public class Lab001_table {
         System.out.printf("%d * %d = %d\n", num,8,(num*8));
         System.out.printf("%d * %d = %d\n", num,9,(num*9));
         System.out.printf("%d * %d = %d\n", num,10,(num*10));
-        System.out.printf("=============");
+        //System.out.printf("=============");
     }
 }
