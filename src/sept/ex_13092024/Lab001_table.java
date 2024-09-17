@@ -15,5 +15,6 @@ public class Lab001_table {
         System.out.printf("%d * %d = %d\n", num,8,(num*8));
         System.out.printf("%d * %d = %d\n", num,9,(num*9));
         System.out.printf("%d * %d = %d\n", num,10,(num*10));
+        System.out.printf("=============");
     }
 }
