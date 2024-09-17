@@ -7,7 +7,7 @@ package sept.ex_16092024;
 byte b=10 will take 1 byte and long l =10l will take  8 byte so total is 9bytes.
  */
 public class Lab001_task {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
         //3rd question === byte b = 10; byte c = 10;  What is the anwser if the perform b+c, What is the data type it will give in result.
         byte b=10;
