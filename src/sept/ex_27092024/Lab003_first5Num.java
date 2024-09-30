@@ -3,6 +3,7 @@ package sept.ex_27092024;
 import java.util.Scanner;
 
 public class Lab003_first5Num {
+    //first 5 even numbers
     public static void main(String[] args) {
         int e=0;
         System.out.println("Enter starting position");
